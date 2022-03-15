@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Ziraat Bankası Web Project**
+- 🔭 I’m currently working on **Ziraat Bank Web Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
